@@ -1,0 +1,5 @@
+#visual space diagnosis.ipynb:
+Using dlib library and thinker to find closing-eyes detection based on the ratio of width-to-height of eyes.
+
+#literacy diagnosis.ipynb:
+Judging if a sentence is understandable by accessing a remote Linux server to obtain the ppl of the sentence as well as analysing the grammar of sentence with Baidu's AipNlp.
